@@ -3,10 +3,17 @@
   <blockquote>Script to convert JPG images to PNG images</blockquote>
 </div>
 
-## 📦 Installation and execution
+## 📦 External libraries installation
 
 ```
 // with Python 3
 pip3 install Pillow
+```
+
+## ⚙️ Usage
+
+```
 python JPGtoPNGconverter.py [SOURCE_FOLDER] [DESTINATION_FOLDER]
+
+Example: python JPGtoPNGconverter.py Images PNG_Images
 ```
