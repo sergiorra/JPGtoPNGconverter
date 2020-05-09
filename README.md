@@ -14,6 +14,10 @@ pip3 install Pillow
 
 ```
 python JPGtoPNGconverter.py [SOURCE_FOLDER] [DESTINATION_FOLDER]
+```
+
+## 📜 Documentation and examples
+
+Check out the [Pillow Documentation](https://pillow.readthedocs.io/).
 
 Example: python JPGtoPNGconverter.py Images PNG_Images
-```
